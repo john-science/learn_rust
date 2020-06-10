@@ -1,0 +1,5 @@
+// The classic first program in any language
+
+fn main() {                                                                                                                                           
+    println!("Hello, Rust!");                                                                                                                        
+}                                                                                                                                                     
