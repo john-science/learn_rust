@@ -1,5 +1,13 @@
 // The classic first program in any language
 
-fn main() {                                                                                                                                           
-    println!("Hello, Rust!");                                                                                                                        
-}                                                                                                                                                     
+fn main() {
+    println!("Hello, Rust!");
+}
+
+/* Things to note:
+ * You define a function with "fn".
+ * That "!" means this is a call to a macro, not a function.
+ * semicolons at the end of lines
+ * curly braces to surround a function body
+ * main took no arguments
+ */
