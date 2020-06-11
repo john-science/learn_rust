@@ -8,3 +8,4 @@ I will not attempt to make this repo fully general. For that please see the orig
 
     Operating System: Linux (Ubuntu 18.04)
     rustc 1.44.0
+    cargo 1.44.0
